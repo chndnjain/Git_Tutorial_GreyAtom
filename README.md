@@ -1,3 +1,4 @@
+^X
 This is a dummy repository to show people how to operate git and github
 
 The topics to be discussed are:
@@ -11,3 +12,5 @@ The topics to be discussed are:
 7. Git merge
 
 And other miscellanous topics such as git add, git diff,
+^X
+
